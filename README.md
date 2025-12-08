@@ -1,6 +1,6 @@
 # <p align="center"><img src="docs/assets/gain-logo-header-crop.png" alt="Gain Automation Logo" width="275"/></p>
 
-# Gain Standard Beckhoff Library (GSBF)
+# Gain Standard Beckhoff Framework (GSBF)
 
 
 ## What is GSBF?
